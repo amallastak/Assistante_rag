@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+sentence-transformers
+pymupdf
+pytest
+ruff
+python-dotenv
+requests
+streamlit
